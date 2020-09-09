@@ -1,0 +1,30 @@
+[33mcommit abca0da0dd27d0a4217a35de1b8d775912388440[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ddf6af3 2af0abc
+Author: [Adogbeji Ibori] <aibori@sjs.org>
+Date:   Wed Sep 9 12:53:54 2020 -0500
+
+    Merge branch 'development' into master
+
+[33mcommit ddf6af3e2eda0b56e92da4a74fa3bedb4e45e650[m
+Author: [Adogbeji Ibori] <aibori@sjs.org>
+Date:   Wed Sep 9 12:53:14 2020 -0500
+
+    Edited myinfo.txt
+
+[33mcommit 2af0abcd8605fe6d2ed1c804c59ac5b398643e29[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: [Adogbeji Ibori] <aibori@sjs.org>
+Date:   Wed Sep 9 12:52:20 2020 -0500
+
+    Added dev 1 file
+
+[33mcommit 42c8d146fc63ec8037a5968f0fd90cb6fd1ed0a8[m
+Author: [Adogbeji Ibori] <aibori@sjs.org>
+Date:   Wed Sep 9 12:49:44 2020 -0500
+
+    added myinfo.txt
+
+[33mcommit aee2cb44ff1677dfbeea57722a9c3834ef14b3a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aiboriSJS <70820186+aiboriSJS@users.noreply.github.com>
+Date:   Wed Sep 9 12:38:21 2020 -0500
+
+    Initial commit
